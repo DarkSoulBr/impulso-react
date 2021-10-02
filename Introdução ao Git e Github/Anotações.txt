@@ -1,0 +1,22 @@
+Fluxo Básico
+
+git init 
+Inicializa um Repositório Local
+
+git status
+Mostra o status 
+
+git add * : adiciona
+Adiciona os arquivos Alterados
+
+git commit -m "texto" : dá o commit
+Faz o Commit das Informações
+
+git remote add origin https:...
+Faz a configuração do Repositório Remoto
+
+git push origin master
+Sicroniza o Repositório Local com o Remoto
+
+git pull origin master
+Sicroniza o Repositório Remoto com o Local
